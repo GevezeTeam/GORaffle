@@ -1,0 +1,8 @@
+name: GORaffle
+main: com.gevezeoyuncu.raffle.RafflePlugin
+version: ${project.version}
+api-version: 1.15
+author: Draww
+commands:
+  raffle:
+    description: raffle'da yaparsın!

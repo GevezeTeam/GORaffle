@@ -1,0 +1,7 @@
+Raffles:
+  VIP:
+    Message: "&a%player% &7adlı oyuncu çekilişten &eVIP &7kazandı!"
+    ExcludedPermissions:
+      - go.raffle
+    Commands:
+      - kes ulan
